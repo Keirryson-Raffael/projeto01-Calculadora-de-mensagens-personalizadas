@@ -23,6 +23,6 @@ alert(`
     Total mensal: U$${totalMensal}
     Total Ano: U$${totalAno}
     Total Anual (Dobrado): U$${totalAnualD}
+========================================`)
 
-==========================================`)
 
