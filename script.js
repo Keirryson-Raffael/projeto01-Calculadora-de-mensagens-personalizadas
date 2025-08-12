@@ -11,7 +11,8 @@ let totalMensal = salario + bonus
 let totalAno = totalMensal * 12
 let totalAnualD = totalAno * 2
 
-alert(`========= Relatório do Usuario =========
+alert(`
+========= Relatório do Usuario =========
     Nome: ${nome}
     Idade: ${idade}
     Ano de nascimento: ${anoNascimento}
@@ -23,4 +24,5 @@ alert(`========= Relatório do Usuario =========
     Total Ano: U$${totalAno}
     Total Anual (Dobrado): U$${totalAnualD}
 
-    ===========================================`)
+==========================================`)
+
